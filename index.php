@@ -1,4 +1,6 @@
 <?php
+use Acme\Auth\User;
+use Acme\Blog\Comment;
 
 require_once 'app/bootstrap.php';
 
